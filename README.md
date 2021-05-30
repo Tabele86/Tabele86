@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... TypeScript
 - 👨‍💻 I’m currently sharpening my skills in ... JavaScript and React
 - 🤔 I’m looking for help with ... Networking, Advice, Mentorship
-- 🥅 My current goals ... To become a Full Stack Web Developer and one hopefully soon work with mobile apps.
+- 🥅 My current goals ... To become a Full Stack Web Developer and hopefully soon work with mobile apps.
 - 📫 How to reach me ... You can contact me via [LinkedIn](https://www.linkedin.com/in/anthonyabele1986/) and [✉](mailto:tabele86@gmail.com)
 - 🔎 Job search ... Looking for work.
 
