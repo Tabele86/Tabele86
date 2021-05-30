@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... multiple React Projects
+- 🔭 I’m currently working on ... Multiple React Projects
 - 🎉 Last project completed ... [New Portfolio](https://github.com/Tabele86/newportfolio) 
 - 🌱 I’m currently learning ... TypeScript
 - 👨‍💻 I’m currently sharpening my skills in ... JavaScript and React
 - 🤔 I’m looking for help with ... Networking, Advice, Mentorship
-- 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/anthonyabele1986/) and [Email](mailto:tabele86@gmail.com)
+- 🥅 My current goals ... To become a Full Stack Web Developer and one hopefully soon work with mobile apps.
+- 📫 How to reach me ... You can contact me via [LinkedIn](https://www.linkedin.com/in/anthonyabele1986/) and [✉](mailto:tabele86@gmail.com)
+- 🔎 Job search ... Looking for work.
 
 ### 🔨 Skills/Tools I've worked with:
 
