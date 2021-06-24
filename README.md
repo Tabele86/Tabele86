@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Multiple React Projects
-- 🎉 Last project completed ... [New Portfolio](https://github.com/Tabele86/newportfolio) 
+- 🎉 Last project completed ... [el-bombi](https://github.com/Tabele86/el-bombi) 
 - 👨‍💻 I’m currently sharpening my skills in ... JavaScript(always) , MongoDB, and React
 - 🤔 I’m looking for help with ... Networking, Advice, Mentorship
 - 🥅 My current goals ... To become a Full Stack Web Developer and hopefully soon work with mobile apps.
