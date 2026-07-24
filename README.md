@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Multiple Projects and Home Server related
-//- 🎉 Last project completed ... [el-bombi](https://github.com/Tabele86/el-bombi) 
 - 👨‍💻 I’m currently sharpening my skills in ... Python, Linux, 
 - 🤔 I’m looking for help with ... Networking, Advice, Mentorship
-//- 🥅 My current goals ... To become a Full Stack Web Developer and hopefully soon work with mobile apps.
 - 📫 How to reach me ... You can contact me via [LinkedIn](https://www.linkedin.com/in/anthonyabele1986/) and [✉](mailto:tabele86@gmail.com)
-//- 🔎 Job search ... Datacenter Technician, Open for opportunities
 <!-- - 🌱 I’m currently learning ... TypeScript -->
 ### 🔨 Skills/Tools I've worked with:
 
